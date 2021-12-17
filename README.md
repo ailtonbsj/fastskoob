@@ -1,7 +1,11 @@
-# fastskoob
+# Fastskoob
 
-An webapp for marking books in Skoob Social Network
+> This repository has been archived by the owner. 
 
-## You can access this in:
+It was an webapp for marking books in Skoob Social Network.
 
-http://orkidea.esy.es/fastskoob/
+For same features use the latest [official apps](https://www.skoob.com.br/downloads/) available on main appstores.
+
+![](https://ailtonbsj.github.io/portfolio/projects/fastskoob/0.png)
+
+![](https://ailtonbsj.github.io/portfolio/projects/fastskoob/2.png)
